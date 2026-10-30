@@ -1,0 +1,24 @@
+name :
+samar upadhyay
+
+
+class :
+first year student
+
+University:
+NST -RU 
+
+
+HOBBIES:
+DANCING
+BADMINTION
+KABBADI
+COOKING
+
+SKILLS:
+Python/java/c++/app development /web development
+ai/ml
+
+WHAT I WANT:
+one file index,html which contains html css code
+and it should contain my portfolio
